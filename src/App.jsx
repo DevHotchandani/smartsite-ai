@@ -118,7 +118,7 @@ Website prompt: ${prompt}`
           {
             prompt !== "" ?
               <>
-                <i onClick={getResponse} className='sendIcon text-[20px] w-[30px] h-[30px] flex items-center justify-center bg-[#9933ff] rounded-[50%] transition-all duration-300 hover:opacity-[.8]'><MdOutlineArrowUpward /></i>
+                <i onClick={getResponse} className='sendIcon text-[20px] w-[30px] h-[30px] flex items-center justify-center bg-[#06b6d4] rounded-[50%] transition-all duration-300 hover:opacity-[.8]'><MdOutlineArrowUpward /></i>
               </> : ""
           }
         </div>
@@ -143,7 +143,7 @@ Website prompt: ${prompt}`
               {
                 loading ?
                   <div className='w-full h-full flex items-center justify-center flex-col'>
-                    <FadeLoader color='#9933ff'/>
+                    <FadeLoader color='#06b6d4'/>
                     <h3 className='text-[23px] mt-4 font-semibold'><span className='bg-gradient-to-br from-blue-400  to-cyan-600 bg-clip-text text-transparent'>Generating</span> your website...</h3>
                   </div> :
                   <>
