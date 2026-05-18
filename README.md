@@ -150,6 +150,21 @@ npm run preview
 
 ---
 
+## Example Prompts
+
+```text
+Create a modern AI startup landing page with dark theme and responsive design.
+```
+
+```text
+Generate a portfolio website for an AI/ML engineering student with project showcase section.
+```
+
+```text
+Build a responsive e-commerce homepage for a sneaker brand with modern UI and product cards.
+```
+
+
 ## Author
 
 **Dev Hotchandani**  
