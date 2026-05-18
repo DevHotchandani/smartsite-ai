@@ -28,7 +28,7 @@ The application allows users to generate modern website layouts from text prompt
 - CSS3
 
 ### Libraries & Tools
-- Google Gemini AI SDK
+- Google GenAI SDK
 - Monaco Editor
 - React Icons
 - React Toastify
