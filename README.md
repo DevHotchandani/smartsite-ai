@@ -83,7 +83,7 @@ Get Gemini API key from:
 ### Clone Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/DevHotchandani/smartsite-ai.git
 cd smartsite-ai
 ```
 
@@ -146,9 +146,6 @@ npm run preview
 ## Author
 
 **Dev Hotchandani**  
-B.Tech CSE (AI & ML)  
-Shri Ramdeobaba College of Engineering and Management
-
 ---
 
 ## License
