@@ -75,8 +75,7 @@ VITE_GEMINI_API_KEY=YOUR_API_KEY
 
 Get Gemini API key from:
 
-:contentReference[oaicite:0]{index=0}
-
+[Google AI Studio API Keys](https://aistudio.google.com/apikey)
 ---
 
 ## Installation & Setup
