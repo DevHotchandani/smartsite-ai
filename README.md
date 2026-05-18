@@ -1,18 +1,19 @@
 # SmartSite AI
 
-SmartSite AI is an AI-powered frontend website generator built using React and Vite.  
-The application allows users to generate modern website layouts from text prompts using AI-assisted workflows with a clean and responsive interface.
+SmartSite AI is an AI-powered frontend website generator built using React, Vite, Tailwind CSS, and Gemini AI.  
+The application allows users to generate modern website layouts from text prompts with live preview support and a responsive interface.
 
 ---
 
 ## Features
 
 - AI-powered website generation
-- Modern responsive UI
+- Live website preview
 - Dark and Light theme support
-- Live preview rendering
+- Responsive modern UI
+- Monaco code editor integration
+- Download generated HTML files
 - Prompt-based frontend generation
-- Reusable React component structure
 - Fast Vite-powered development setup
 
 ---
@@ -23,13 +24,17 @@ The application allows users to generate modern website layouts from text prompt
 - React.js
 - Vite
 - JavaScript (ES6+)
+- Tailwind CSS
 - CSS3
 
 ### Libraries & Tools
+- Google Gemini AI SDK
+- Monaco Editor
 - React Icons
-- UUID
-- YAML
+- React Toastify
+- React Spinners
 - Git & GitHub
+- npm
 
 ---
 
@@ -76,6 +81,7 @@ VITE_GEMINI_API_KEY=YOUR_API_KEY
 Get Gemini API key from:
 
 [Google AI Studio API Keys](https://aistudio.google.com/apikey)
+
 ---
 
 ## Installation & Setup
@@ -140,6 +146,7 @@ npm run preview
 - AI prompt handling
 - Dynamic website rendering
 - Live preview workflow
+- Code editor integration
 
 ---
 
